@@ -25,3 +25,7 @@ var checkDead = setInterval(function() {
 function facil() {
     window.location.href = "https://tayframbz.github.io/Carro/";
 };
+
+function facil() {
+    window.location.href = "https://tayframbz.github.io/foguete/";
+};
